@@ -11,7 +11,7 @@ This day scheduler will solve the problem of utter chaos by allowing user input 
 
 ## Installation
 
-
+https://jannorth.github.io/hourly-planner/
 
 ## Usage
 
